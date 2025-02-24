@@ -1,6 +1,10 @@
-I am currently in my senior year, pursuing a Bachelor's degree in Computer Science with a Minor in Mathematics. My focus is on Software Engineering and Machine Learning. I am also working toward several verified certificates in Machine Learning, Azure Services, and iOS Development. I am passionate about AI and believe it can be leveraged across many applications to help companies increase productivity and profitability. Azure services and Swift programming for iOS development offer powerful tools for integrating AI services and visualizing data.
+Greetings! Welcome to my Github Profile. My name is Andrew Rinomhota, I am in my final semester pursuing a Bachelor’s degree in Computer Science with a Minor in Mathematics at Mississippi State University. My primary focus is Software Engineering and Machine Learning. I have a strong passion for Computer Science, Mathematics, Data analysis, and Programming. Through various projects and problem-solving experiences with companies and student organizations, I have developed practical skills in using technology to real world applications. I am eager to bring my expertise to an entry-level position where I can contribute to solutions and continue growing as a professional. I am particularly interested in using technology to increase productivity and efficiency in a company. Please feel free to reach out so I can share my personal projects, resume which are all on my Personal Website Portfolio.
 
-In addition to my academic workload of 18 credit hours, I am actively pursuing certifications in these areas. Outside of academics, I am an engaged member of the African Student Association (ASA). I also have a strong athletic background, having competed in the NCAA and represented my national rugby team for two years, experiences that taught me discipline, respect, and invaluable soft skills. I am passionate about using technology to drive positive change and make the world a better place. Feel free to reach out if you'd like to connect.
+🎓Bachelors in Computer Science with a Minor in Mathematics
+👨🏾‍💻Software Engineering Experience
+💻 Experienced in Python, C# .Net, C++, Swift Programming, Database Management
+🌐 Projects on my Github that use AI and Data Analysis
+💡Stong leadership and professional skills with a focus on effective communication and teamwork
 
 <!---
 tichandrew02/tichandrew02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
